@@ -14,7 +14,7 @@ Um aplicativo em Python que ajuda você a descobrir seus dons espirituais basead
 ## Como Usar
 
 ### Versão Executável (Windows)
-1. Baixe o arquivo `DonsRomanos12.exe` da seção [Releases](../../releases)
+1. Baixe o arquivo `Descubra o seu DOM.exe` da seção [Releases](../../releases)
 2. Execute o arquivo baixado
 3. Responda as 49 perguntas com "Sim" ou "Não"
 4. Ao final, você verá seus dons predominantes
