@@ -19,16 +19,6 @@ Um aplicativo em Python que ajuda você a descobrir seus dons espirituais basead
 3. Responda as 49 perguntas com "Sim" ou "Não"
 4. Ao final, você verá seus dons predominantes
 
-### Versão Python
-Se preferir rodar o código fonte:
-
-1. Instale o Python 3.x
-2. Instale as dependências:
-```bash
-pip install customtkinter
-```
-3. Execute o arquivo `dons.py`
-
 ## Dons Avaliados
 
 - Profecia
