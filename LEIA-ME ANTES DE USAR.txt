@@ -1,0 +1,27 @@
+AVISO: Se o computador apontar o programa como um vírus, permita o programa no computador, nesse caso não é um vírus, o Windows pode as vezes achar
+que é um vírus por se tratar de um arquivo Python (Phyton é a linguagem de programação usada no aplicativo), é apenas um "falso positivo" que é quando o Windows
+acha que detectou um vírus.
+
+
+Instruções de como usar:
+
+1. Abra a pasta Programa e depois abra o programa: "Descubra o seu DOM"
+
+2. Em caso do Windows detectar vírus, leia o AVISO acima
+
+3. Você irá responder 49 perguntas sobre sua vida espiritual e cotidiana
+
+4. No final você receberá os possíveis dons de acordo com as respostas que você deu
+
+5. Se quiser saber sobre algum dom em específico, abra o arquivo "Todos os dons" (localizado na pasta Programa)
+para ter mais informações sobre os dons existentes ou converse com seu Pastor local
+
+
+
+
+
+
+Encontrou algum problema no programa ou alguma ideia para adicionar no programa?
+
+Contado do desenvolvedor do programa: (35) 99129-7750 Filipe Felix (Whatsapp)
+
